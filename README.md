@@ -57,6 +57,18 @@ Clone the repo to your server using `git clone` , then navigate into the folder
 
 ## Step 4️⃣: `Deploy the multi-service app using Docker Compose` :
 
+`Docker Compose` is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration. To learn more about all the features of Compose, see the list of features.
+
+Compose works in all environments: production, staging, development, testing, as well as CI workflows. You can learn more about each case in Common Use Cases.
+
+Using Compose is basically a three-step process:
+
+1. Define your app’s environment with a Dockerfile so it can be reproduced anywhere. (☑️ Ready)
+
+2. Define the services that make up your app in docker-compose.yml so they can be run together in an isolated environment. (☑️ Ready)
+
+3. Run `docker compose up` and the Docker compose command starts and runs your entire app:
+
 ```sh
 docker compose up -d
 ```
