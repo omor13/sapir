@@ -35,3 +35,8 @@ Firstly , login to aws console using the following credentials:
 | Password   | Analiza2022$ |
 
 
+
+
+
+
+> apt update 
