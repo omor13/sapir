@@ -15,6 +15,7 @@ In this Lab scenario you'll work with 3 containers:
 
 This Lab will teach you how to use use Docker Compose, a tool for defining and running multi-container Docker applications, to configure and launch the Full Stack (front-end , Back-end , db) environment.
 
+![image](https://user-images.githubusercontent.com/30344406/181816851-d7dee2d7-8fca-4249-99cf-39450a1cacb7.png)
 
 ### Upon completion of this Lab, you will be able to:
 
