@@ -8,9 +8,9 @@ In this Lab you'll learn how to use both Docker and Docker Compose to build 
 
 In this Lab scenario you'll work with 3 containers:
 
-React (front-end)
-Express (Back-end)
-Mongodb
+* React (front-end)
+* Express (Back-end)
+* Mongodb
 
 This Lab will teach you how to use use Docker Compose, a tool for defining and running multi-container Docker applications, to configure and launch the Full Stack (front-end , Back-end , db) environment.
 
