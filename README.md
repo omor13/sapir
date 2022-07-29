@@ -29,8 +29,6 @@ Step :one: : Login to AWS Management Console
 Firstly , login to aws console using the following credentials:
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
 | Account ID      | 777203705741       |
 | Username   | analiza        |
 | Password   | Analiza2022$        |
