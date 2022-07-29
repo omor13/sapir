@@ -24,11 +24,15 @@ This Lab will teach you how to use use Docker Compose, a tool for defining and r
 * Test and validate the container setup using the curl command
 
 
-## :computer: Step :one: : Login to AWS Management Console
+Step :one: : Login to AWS Management Console
 
 Firstly , login to aws console using the following credentials:
 
 
-
+| Syntax      | Description |
+| ----------- | ----------- |
+| Account ID      | 777203705741       |
+| Username   | analiza        |
+| Password   | Analiza2022$        |
 
 
