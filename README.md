@@ -53,10 +53,14 @@ Then , Connect to the instance within `EC2 Instance Connect`:
 
 ## Step 3️⃣: `clone the repo`
 
-Clone the repo to your server using `git clone`
+Clone the repo to your server using `git clone` , then navigate into the folder
 
-## Step 3️⃣: `Deploy the multi service app using Docker Compose` :
+## Step 4️⃣: `Deploy the multi-service app using Docker Compose` :
 
 ```sh
 docker compose up -d
 ```
+
+📧 Contact:
+email: `fadi@analiza-college.co.il`
+discord: `Fadi#5225`
