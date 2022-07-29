@@ -12,6 +12,8 @@ In this Lab scenario you'll work with 3 containers:
 * Express (Back-end)
 * Mongodb
 
+![image](https://user-images.githubusercontent.com/30344406/181783064-5e490c52-6633-4724-904b-45f3024db7ec.png)
+
 This Lab will teach you how to use use Docker Compose, a tool for defining and running multi-container Docker applications, to configure and launch the Full Stack (front-end , Back-end , db) environment.
 
 
