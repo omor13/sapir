@@ -12,7 +12,9 @@ In this Lab scenario you'll work with 3 containers:
 * Express (Back-end)
 * Mongodb
 
-![image](https://user-images.githubusercontent.com/30344406/181783064-5e490c52-6633-4724-904b-45f3024db7ec.png | width=100)![image](https://user-images.githubusercontent.com/30344406/181783210-7cec9efe-ad11-4d56-93bb-9dc56a01cc7a.png | width=100)![image](https://user-images.githubusercontent.com/30344406/181783345-96db0c54-66ee-4ab8-abbf-b856b7ff9226.png | width=100)
+![image](https://user-images.githubusercontent.com/30344406/181783064-5e490c52-6633-4724-904b-45f3024db7ec.png | width=100)
+![image](https://user-images.githubusercontent.com/30344406/181783210-7cec9efe-ad11-4d56-93bb-9dc56a01cc7a.png | width=100)
+![image](https://user-images.githubusercontent.com/30344406/181783345-96db0c54-66ee-4ab8-abbf-b856b7ff9226.png | width=100)
 
 
 
