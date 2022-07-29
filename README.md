@@ -25,5 +25,4 @@ Test and validate the container setup using the curl command
 
 ## Step [1]
 
-- [x]
-- [ ]
+- [ ] 
