@@ -20,10 +20,10 @@ This Lab will teach you how to use use Docker Compose, a tool for defining and r
 
 Upon completion of this Lab, you will be able to:
 
-Use a Dockerfile to create a web application
-Use a Docker Compose file to create a multi-container setup
-Use the docker compose command to launch a multi-container setup
-Test and validate the container setup using the curl command
+* Use a Dockerfile to create a web application
+* Use a Docker Compose file to create a multi-container setup
+* Use the docker compose command to launch a multi-container setup
+* Test and validate the container setup using the curl command
 
 
 ## Step [1]: Login to AWS Console
