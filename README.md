@@ -25,7 +25,7 @@ This Lab will teach you how to use use Docker Compose, a tool for defining and r
 
 
 
-## Step :one: : Login to AWS Management Console
+## Step :one:: `Login to AWS Management Console`
 
 Firstly , login to aws console using the following credentials:
 
