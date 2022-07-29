@@ -45,6 +45,9 @@ Use EC2 to create a new instance with the following properties:
 | Region:   | N.Virginia | |
 | Storage:   | 15 GB | |
 
+Then , Connect to the instance within `EC2 Instance Connect`:
+![image](https://user-images.githubusercontent.com/30344406/181844662-0567ac18-5f77-4f2d-a527-5f1ecdb4259d.png)
+
 ## Step 3️⃣: `clone the repo`
 
 Clone this repo to your server using `git clone`
