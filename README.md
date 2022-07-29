@@ -38,12 +38,12 @@ Firstly , login to aws console using the following credentials:
 
 Use EC2 to create a new instance with the following properties:
 
-| Instance Name | sapir_<your-firstname>_<your_last_name> |
-| ---------- | ------------ |
-| AMI   |  ami-02292f97f5e004ea6 (AnalizaOS - Customized Ubuntu) |
-| Type   | t2.micro |
-| Region   | N.Virginia |
-| Storage   | 15 GB |
+| Instance Name: | sapir-<your_firstname>-<your_last_name> | Example: sapir-fadi-iraqi |
+| ---------- | ------------ | ------------ |
+| AMI:   |  ami-02292f97f5e004ea6 | AnalizaOS - Customized Ubuntu 22.04 |
+| Type:  | t2.micro | |
+| Region:   | N.Virginia | |
+| Storage:   | 15 GB | |
 
 
 
