@@ -22,3 +22,8 @@ Use a Docker Compose file to create a multi-container setup
 Use the docker compose command to launch a multi-container setup
 Test and validate the container setup using the curl command
 
+
+## Step [1]
+
+- [ ]
+- [ ]
