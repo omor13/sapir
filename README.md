@@ -1,4 +1,4 @@
-# Cloud DevOps - Final Lab
+# Sapir Cloud DevOps - Final Lab
 
 ## Introduction
 
