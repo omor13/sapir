@@ -8,7 +8,7 @@ In this Lab you'll learn how to use both Docker and Docker Compose to build 
 
 In this Lab scenario you'll work with 3 containers:
 
-* React (front-end)
+* [![React][React.js]][React-url] (front-end)
 * Express (Back-end)
 * Mongodb
 ![image](https://user-images.githubusercontent.com/30344406/181800731-23acc432-e764-49cf-be0c-49d6d025f82e.png)
