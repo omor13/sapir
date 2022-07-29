@@ -61,6 +61,10 @@ Clone the repo to your server using `git clone` , then navigate into the folder
 docker compose up -d
 ```
 
-📧 Contact:
+## 📧 For Contact:
+
 email: `fadi@analiza-college.co.il`
+
 discord: `Fadi#5225`
+
+# Good luck
