@@ -24,6 +24,6 @@ This Lab will teach you how to use use Docker Compose, a tool for defining and r
 * Test and validate the container setup using the curl command
 
 
-## Step [1]: Login to AWS Console
+## :computer: Step [1]: Login to AWS Console
 
 login to aws console using the following credentials:
