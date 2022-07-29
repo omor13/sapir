@@ -40,12 +40,18 @@ Use EC2 to create a new instance with the following properties:
 
 | Instance Name: | sapir-<your_firstname>-<your_last_name> | Example: sapir-fadi-iraqi |
 | ---------- | ------------ | ------------ |
-| AMI:   |  ami-02292f97f5e004ea6 | AnalizaOS - Customized Ubuntu 22.04 |
+| AMI:   |  ami-02292f97f5e004ea6 | AnalizaOS - Customized Ubuntu 22.04 with `Docker` & `Docker Compose` |
 | Type:  | t2.micro | |
 | Region:   | N.Virginia | |
 | Storage:   | 15 GB | |
 
+## Step 3️⃣: `clone the repo`
 
+Clone this repo to your server using `git clone`
+
+## Step 3️⃣: `clone the repo`
+
+Enter the new folder and 
 
 ```sh
 apt update
