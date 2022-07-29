@@ -1,7 +1,6 @@
-# sapir
-Sapir - Cloud DevOps - Final Lab
+# Cloud DevOps - Final Lab
 
-Introduction
+# Introduction
 
 If you're building and deploying cloud native applications and microservices, then understanding container development and orchestration is a must have skill.
 
@@ -22,5 +21,4 @@ Use a Dockerfile to create a web application
 Use a Docker Compose file to create a multi-container setup
 Use the docker compose command to launch a multi-container setup
 Test and validate the container setup using the curl command
-![image](https://user-images.githubusercontent.com/30344406/181781453-4a6942ee-cc61-4dc9-879c-8dc29c057df8.png)
 
