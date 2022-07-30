@@ -59,7 +59,7 @@ Clone the repo to your server using `git clone` , then navigate into the folder
 
 `Docker Compose` is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration. To learn more about all the features of Compose, see the list of features.
 
-Compose works in all environments: production, staging, development, testing, as well as CI workflows. You can learn more about each case in Common Use Cases.
+Compose works in all environments: production, staging, development, testing, as well as CI workflows.
 
 Using Compose is basically a three-step process:
 
