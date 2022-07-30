@@ -86,6 +86,10 @@ List services:
 docker ps
 ```
 
+Add `Security Group` inbound rule , to enable external traffic:
+
+![Screenshot 2022-07-30 085619](https://user-images.githubusercontent.com/30344406/181876941-81d964af-c920-40e1-8d40-05372d55825f.png)
+
 
 ## Step 6️⃣: `submission` :
  
