@@ -106,8 +106,9 @@ Open the app on the browser , and check if your app working properly:
 * Create a Diagram (using draw.io) describes the tolpology (front-end, backend ,db) you have after the deployment emphasizing port numbers for every service , use official aws & docker icons like:
 
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/30344406/181876127-4653ddb0-11e1-42e8-813e-641cb29f9446.png)
+* Export your diagram as svg file and submit it on `Leemod`
 
-* After finishing all of the steps `Stop` youe instance **(be worry! , don't terminate it)** . after your submission we will check
+* After finishing all of the steps `Stop` youe instance **(be worry! , don't terminate it)** . after your submission we will check your setup
 
 
 ## 📧 For Contact:
